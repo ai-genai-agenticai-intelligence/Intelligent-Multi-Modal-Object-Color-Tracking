@@ -46,7 +46,7 @@ def _open_source(source: str, uploaded, webcam_index: int) -> VideoSource:
 
 
 st.set_page_config(page_title="IMOT: Colour + Object Detection", layout="wide")
-st.title("IMOT: Colour-Based Behavioral Analysis + Object Detection")
+st.title("Intelligent-Multi-Modal-Object-Color-Tracking")
 
 with st.sidebar:
     st.subheader("Input")
